@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://agent-6aa7fde7354566219ffd51e8--anamtaah.netlify.app/">
+  🌐 <a href="https://anamtaportfolio.netlify.app/">
     <b>Visit My Portfolio →</b>
   </a>
 </p>
